@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -110,7 +110,6 @@ export default function Home() {
               role: "CEO",
               company: "InnovateTech Solutions",
               rating: 5,
-              testimonial: "TechForward transformed our entire IT infrastructure. Their expertise in cloud migration and AI implementation has doubled our operational efficiency.",
               imageSrc: "https://images.pexels.com/photos/3755824/pexels-photo-3755824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Sarah Johnson CEO portrait"
             },
@@ -120,7 +119,6 @@ export default function Home() {
               role: "CTO",
               company: "DataFlow Systems",
               rating: 5,
-              testimonial: "Outstanding cybersecurity solutions. TechForward's proactive approach has kept our systems secure while scaling our business globally.",
               imageSrc: "https://images.pexels.com/photos/16969846/pexels-photo-16969846.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Michael Chen CTO portrait"
             },
@@ -130,7 +128,6 @@ export default function Home() {
               role: "Founder",
               company: "NextGen Startup",
               rating: 5,
-              testimonial: "The custom software solution TechForward built for us is exactly what we needed. Their team understood our vision perfectly.",
               imageSrc: "https://images.pexels.com/photos/3755824/pexels-photo-3755824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Emily Rodriguez founder portrait"
             },
@@ -140,7 +137,6 @@ export default function Home() {
               role: "Product Manager",
               company: "TechVision Corp",
               rating: 5,
-              testimonial: "TechForward's AI solutions have revolutionized our product analytics. We now have insights we never thought possible.",
               imageSrc: "https://images.pexels.com/photos/6930549/pexels-photo-6930549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "David Kim product manager portrait"
             }
